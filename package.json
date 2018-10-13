@@ -4,7 +4,8 @@
   "description": "Playground for new and exiting typescript features",
   "main": "dist/src/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "exec": "node dist/src/index.js"
   },
   "repository": {
     "type": "git",
